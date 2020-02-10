@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/SweetInk/wqxuetang-pdf-downloader) 
+
 # wqxuetang-pdf-downloader
 
 文泉学堂PDF下载器
